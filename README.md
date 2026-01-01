@@ -8,21 +8,21 @@ The system provides a simple, user-friendly Flask web interface for ECG image up
 
 ## Features
 
-- **ECG Image Preprocessing:** Standardizes ECG images for accurate model inference
-- **Deep Learning Model:** CNN-based ECG image classification using TensorFlow/Keras
-- **Real-time Prediction:** Upload ECG images and receive instant results
-- **Flask Web Interface:** Simple and accessible UI for non-technical users
-- **Patient Registration Module:** Stores patient details before analysis
+- **ECG Image Preprocessing:** Standardizes ECG images for accurate model inference  
+- **Deep Learning Model:** CNN-based ECG image classification using TensorFlow/Keras  
+- **Real-time Prediction:** Upload ECG images and receive instant results  
+- **Flask Web Interface:** Simple and accessible UI for non-technical users  
+- **Patient Registration Module:** Stores patient details before analysis  
 
 ---
 
 ## Tech Stack
 
-- Python
-- Flask
-- TensorFlow / Keras
-- NumPy
-- HTML / CSS
+- Python  
+- Flask  
+- TensorFlow / Keras  
+- NumPy  
+- HTML / CSS  
 
 ---
 
